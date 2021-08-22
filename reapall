@@ -259,3 +259,4 @@ end)
 
 TextButton.MouseButton1Click:Connect(function()
 	ProccessString(TextBox.Text)
+end)
