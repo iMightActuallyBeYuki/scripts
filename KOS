@@ -1,0 +1,86 @@
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["FazbearGamingC1987"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["robloxg4amer3131"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["hydradawn123"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["cxan0_0"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["lvlDizzy"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["naruto_uzumaki401111"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+
+
+while wait(0) do
+
+for i,v in pairs(game.Players:GetPlayers()) do
+    pcall(function()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_Start",game.Players["Zleffy"]})
+game.ReplicatedStorage.RemoteEvent:FireServer({"Skill_SoulAttack_End"})
+end)
+
+wait(0)
+
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
