@@ -7,4 +7,7 @@ while wait do
         }
         
         game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))
+    
+    wait()
+    
     end
