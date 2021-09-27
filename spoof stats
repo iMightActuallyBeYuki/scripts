@@ -1,0 +1,28 @@
+-- Made By Yukii --
+
+while wait do
+    game.Players.LocalPlayer.PrivateStats.Rank.Value = 11
+game.Players.LocalPlayer.PrivateStats.SelectedRank.Value = 11
+game.Players.LocalPlayer.PrivateStats.Token.Value = 999999999999999999
+game.Players.LocalPlayer.PrivateStats.FistStrength.Value = 4.234310091132e+19
+game.Players.LocalPlayer.PrivateStats.BodyToughness.Value = 4.5940581161778e+19
+game.Players.LocalPlayer.PrivateStats.MovementSpeed.Value = 56418201298
+game.Players.LocalPlayer.PrivateStats.JumpForce.Value = 89463253745
+game.Players.LocalPlayer.PrivateStats.PsychicPower.Value = 2.5470517216434e+23
+game.Players.LocalPlayer.PrivateStats.InnocentKilled.Value = 367485
+game.Players.LocalPlayer.PrivateStats.VillainKilled.Value = 87238
+game.Players.LocalPlayer.PrivateStats.HeroKilled.Value = 939837
+game.Players.LocalPlayer.PrivateStats.Reputation.Value = 48585
+game.Players.LocalPlayer.PrivateStats.AliveTime.Value = 59398
+
+game.Players.LocalPlayer.PlayerGui.ScreenGui.MenuFrame.InfoFrame.StatusTxt.Text = "Status : Superhero"
+
+game.Players.LocalPlayer.PlayerGui.ScreenGui.MenuFrame.InfoFrame.FSMultiplierTxt.Text = "x131072"
+game.Players.LocalPlayer.PlayerGui.ScreenGui.MenuFrame.InfoFrame.BTMultiplierTxt.Text = "x131072"
+game.Players.LocalPlayer.PlayerGui.ScreenGui.MenuFrame.InfoFrame.MSMultiplierTxt.Text = "x8192"
+game.Players.LocalPlayer.PlayerGui.ScreenGui.MenuFrame.InfoFrame.JFMultiplierTxt.Text = "x8192"
+game.Players.LocalPlayer.PlayerGui.ScreenGui.MenuFrame.InfoFrame.PPMultiplierTxt.Text = "x131072"
+
+wait()
+
+end
